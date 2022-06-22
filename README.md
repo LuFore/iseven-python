@@ -10,9 +10,11 @@ See the section below for an example of the use of this program.
 ### example
 
 python3 iseven 3 
+
 n
 
 python3 iseven 1002
+
 y
 
 -------------------------
